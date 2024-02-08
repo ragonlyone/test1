@@ -1,1 +1,2 @@
 this is 1st comment for merge conflict in branch test1new
+test1
