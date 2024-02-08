@@ -2,5 +2,8 @@
 changes in master
 
 this is 1st comment for merge conflict in branch test1new
+<<<<<<< HEAD
 test1
 test1new
+=======
+>>>>>>> parent of 5b328bd... test1new branch
