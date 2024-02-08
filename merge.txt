@@ -1,0 +1,1 @@
+THis is 2nd comment for merge conflict in branch test2
